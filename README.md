@@ -1,50 +1,16 @@
-👇
+# Paradise Nursery 🌿
 
-📌 Simple Interest Calculator
+## 📌 Project Description
+Paradise Nursery is a simple plant shopping web application where users can browse different types of plants and add them to their cart.
 
-A Simple Interest Calculator is a basic tool used to calculate the interest earned or paid on a principal amount over a specific period of time at a fixed interest rate.
+## 🚀 Features
+- View a list of plants
+- Categorized plant sections (Indoor, Outdoor, etc.)
+- Add plants to cart
+- Increase or decrease quantity
+- Remove items from cart
 
-🧮 Formula Used
-
-The formula for calculating simple interest is:
-
-SI = (P × R × T) / 100
-
-Where:
-
-P = Principal amount (initial money)
-R = Rate of interest (per year)
-T = Time (in years)
-SI = Simple Interest
-💡 Example
-
-If:
-
-Principal = 1000
-Rate = 5%
-Time = 2 years
-
-Then:
-
-SI = (1000 × 5 × 2) / 100 = 100
-
-👉 So, the interest is 100
-
-⚙️ How It Works
-User enters:
-Principal amount
-Interest rate
-Time period
-The calculator applies the formula
-It displays the calculated simple interest
-
-🚀 Features
-Easy to use
-Instant calculation
-Helps in financial planning
-Useful for students and beginners
-
-📊 Use Cases
-Calculating loan interest
-Understanding basic finance concepts
-Educational purposes
+## 🛠️ Technologies Used
+- React.js
+- Redux
+- CSS
